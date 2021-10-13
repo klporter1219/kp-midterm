@@ -4,5 +4,5 @@ module.exports = {
     title: "kp-midterm",
   },
   plugins: [],
-  pathPrefix: "~klsipes/kp-midterm"
+  pathPrefix: "/~klsipes/kp-midterm"
 };
