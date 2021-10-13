@@ -1,0 +1,9 @@
+input,
+textarea {
+  width: 100vw !important;
+  margin-bottom: 8px !important;
+}
+
+label {
+  margin-top: 8px;
+}
