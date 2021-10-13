@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://in-info-web4.informatics.iupui.edu/~klsipes/kp-midterm/",
     title: "kp-midterm",
   },
   plugins: [],
