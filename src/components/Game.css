@@ -1,0 +1,15 @@
+.gameHeader {
+  margin-bottom: 0px !important;
+}
+
+.gameContainer {
+  margin-left: 0px !important;
+}
+
+.gameIcon {
+  float: right;
+}
+
+.gameCardBottom {
+  padding: 8px;
+}
